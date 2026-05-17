@@ -1,0 +1,3 @@
+env/
+plant-disease-api/plant_disease_model.onnx
+plant-disease-api/plant_disease_model.onnx.data
